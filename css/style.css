@@ -189,7 +189,7 @@ input:focus{
   }
   
   html {
-    background: linear-gradient(180deg, #ea03ff 0%, #0097ff 100%);
+    background: linear-gradient(180deg, #b4deee 0%, #28a0f0 100%);
   }
   
   input:focus {
@@ -206,14 +206,14 @@ input:focus{
   }
   
   #register-banner {
-    background: url("../img/imagem2.jpg");
+    background: url("../img/img1.jpg");
     background-size: cover;
     background-position: center;
     width: 50%;
   }
   
   #banner-layer {
-    background-color: rgba(25, 11, 122, 0.7);
+    background-color: rgba(83, 155, 173, 0.7);
     height: 100%;
     padding: 2rem;
     display: flex;
